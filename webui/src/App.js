@@ -55,6 +55,7 @@ export default class App extends Component {
     }
 
     async populateWeatherData() {
+        //New
         //'https://jsonplaceholder.typicode.com/todos/1'
         const response = await fetch('weatherforecast');
        // const response = await fetch('https://jsonplaceholder.typicode.com/posts');
