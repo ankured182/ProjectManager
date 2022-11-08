@@ -4,7 +4,7 @@ export default function Heading() {
 
         return (
             <div>
-                <h1 id="tabelLabel" >div here Heading Here</h1>
+                <h1 id="tabelLabel" >div here Heading Here-- hhh</h1>
             </div>
         );
     }
