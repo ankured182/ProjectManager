@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "WebUI", "WebUI\WebUI.esproj", "{E2CCA449-8407-42D7-829B-BAFB94060731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackEnd", "BackEnd\BackEnd.csproj", "{6707A80E-33B4-4268-A796-1D8BC1EB6F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2CCA449-8407-42D7-829B-BAFB94060731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CCA449-8407-42D7-829B-BAFB94060731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2CCA449-8407-42D7-829B-BAFB94060731}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E2CCA449-8407-42D7-829B-BAFB94060731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2CCA449-8407-42D7-829B-BAFB94060731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2CCA449-8407-42D7-829B-BAFB94060731}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6707A80E-33B4-4268-A796-1D8BC1EB6F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6707A80E-33B4-4268-A796-1D8BC1EB6F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6707A80E-33B4-4268-A796-1D8BC1EB6F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6707A80E-33B4-4268-A796-1D8BC1EB6F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48E20DA0-F32F-48F6-9A41-ADA277D4673D}
+	EndGlobalSection
+EndGlobal
